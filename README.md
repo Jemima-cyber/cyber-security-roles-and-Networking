@@ -4,4 +4,4 @@ This repository contains notes and progress learning cybersecurity, including ne
 -Networking basics
 -Cyber security career paths
 -Tools and Commands
-- Labs and Practical work.
+- Labs and Practical work..
